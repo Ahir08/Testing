@@ -1,2 +1,3 @@
 # Testing
 This is a Testing of a new Repository
+THIS IS NEW AND TESTING , I HAVE NO IDEA WHAT I AM DOING AND WHY I AM DOING IN THIS FILE.
